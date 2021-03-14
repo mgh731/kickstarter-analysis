@@ -20,7 +20,7 @@ I performed the analysis by focusing on the "Theater" Parent Category. I organiz
 
 ### Visual analysis of Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](/Resources/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
@@ -33,7 +33,7 @@ Example of Countifs formula used to derive totals based on "Play" subcategory, S
 
 ### Visual analysis of Outcomes Based on Goals
 
-![Outcomes_vs_Goals](kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
