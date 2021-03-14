@@ -20,7 +20,8 @@ I performed the analysis by focusing on the "Theater" Parent Category. I organiz
 
 ### Visual analysis of Outcomes Based on Launch Date
 
-[Insert Picture]
+![Theater_Outcomes_vs_Launch](kickstarter-analysis/Resources/Theater_Outcomes_vs_Launch.png)
+
 
 ### Analysis of Outcomes Based on Goals
 1. There is not much difference in success or failure between Campaigns that set goals between 5,000 to 24,999. In particular, campaigns 15000 to 19999 had an equal number of campaigns success as fail. 
@@ -32,7 +33,7 @@ Example of Countifs formula used to derive totals based on "Play" subcategory, S
 
 ### Visual analysis of Outcomes Based on Goals
 
-[Insert Picture]
+![Outcomes_vs_Goals](kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
